@@ -12,6 +12,7 @@ public class Student {
     private String sname;
     private String sID;
     //some comment changed
+    //some comment with pull
     //this has been edited in github.com
 
     public Student(String sname, String sID) {
