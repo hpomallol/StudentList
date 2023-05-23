@@ -11,7 +11,7 @@ package studentlist;
 public class Student {
     private String sname;
     private String sID;
-    //some comment at line 14
+    //some comment changed
     //this has been edited in github.com
 
     public Student(String sname, String sID) {
